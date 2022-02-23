@@ -1,7 +1,7 @@
 @echo off
 echo Setting path...
 
-set path=\Users\witherherobrine\Desktop\Program_Languages\Java\JDK\bin
+set path=[PATH_TO_YOUR_JDK]
 
 echo Path set!
 
